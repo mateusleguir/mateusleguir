@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Mateus Leguir from Brazil<br><br>- 🔭 I’m working as DevOps Analist<br>- 📚 I'm currently learning Shell Script, Python and Golang<br>- ⚡ In my free time I play soccer</p>
+<p align="left">I'm Mateus Leguir from Brazil<br><br>- 🔭 I’m working as DevOps Analist<br>- 📚 I'm currently learning Shell Script, Python and Golang<br>- ⚡ In my free time I play soccer and make animate</p>
 
 ###
 
