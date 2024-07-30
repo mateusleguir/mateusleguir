@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" width="300" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-desktop-e-smartphone_23-2148683810.jpg?t=st=1722298329~exp=1722301929~hmac=a7342ee1c6de6626300d69f0636840065b184c539ddf0804b38295a082117805&w=740"  />
+  <img height="300" width="400" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-desktop-e-smartphone_23-2148683810.jpg?t=st=1722298329~exp=1722301929~hmac=a7342ee1c6de6626300d69f0636840065b184c539ddf0804b38295a082117805&w=740"  />
 </div>
 
 ###
