@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://cdn.pixabay.com/photo/2018/02/15/18/29/devops-3155973_1280.jpg"  />
+  <img height="150" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-desktop-e-smartphone_23-2148683810.jpg?t=st=1722298329~exp=1722301929~hmac=a7342ee1c6de6626300d69f0636840065b184c539ddf0804b38295a082117805&w=740"  />
 </div>
 
 ###
@@ -47,6 +47,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" alt="ubuntu logo"  />
 </div>
 
 ###
