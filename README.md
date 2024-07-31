@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" width="250" src="https://img.freepik.com/vetores-gratis/desenvolvimento-de-aplicativos-para-desktop-e-smartphone_23-2148683810.jpg?t=st=1722298329~exp=1722301929~hmac=a7342ee1c6de6626300d69f0636840065b184c539ddf0804b38295a082117805&w=740"  />
+  <img src="https://icons.iconarchive.com/icons/iconsmind/outline/128/Bug-icon.png" width="128" height="128">
 </div>
 
 ###
