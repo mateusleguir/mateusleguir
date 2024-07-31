@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://icons.iconarchive.com/icons/iconsmind/outline/128/Bug-icon.png" width="128" height="128">
+  <img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/128/Message-clouds-icon.png" width="128" height="128">
+
 </div>
 
 ###
