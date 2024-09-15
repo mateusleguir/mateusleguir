@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://icons.iconarchive.com/icons/graphicloads/colorful-long-shadow/128/Message-clouds-icon.png" width="128" height="128">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" width="128" height="128">
 
 </div>
 
