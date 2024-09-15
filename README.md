@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" width="128" height="128">
+  <img src="https://octodex.github.com/images/Fintechtocat.png" width="250" height="250">
 
 </div>
 
