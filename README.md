@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://octodex.github.com/images/Fintechtocat.png" width="250" height="250">
+  <img src="imagens/octocat-flow.png" width="250" height="250">
 
 </div>
 
@@ -13,7 +13,6 @@
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
 </div>
-
 
 ###
 
