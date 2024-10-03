@@ -62,7 +62,7 @@
 
 ###
 
-[Meus Projetos de HTML5 e CSS3](https://mateusleguir.github.io/html-css/)
+[Projetos em HTML5 e CSS3](https://mateusleguir.github.io/html-css/)
 
-[Meus Projetos em JavaScript](https://mateusleguir.github.io/javascript/)
+[Projetos em JavaScript](https://mateusleguir.github.io/javascript/)
   
