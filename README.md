@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">I'm Mateus Leguir from Brazil<br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I make animation</p>
+<p align="left">I'm Mateus Leguir from Brazil<br><br>- 📚 I'm currently learning Python<br>- ⚡ In my free time I make animation</p>
 
 ###
 
